@@ -1,0 +1,68 @@
+#header-btn{
+    background-color: #3A69D2;
+    text-align: center;
+    padding: 10px;
+    font-weight: bold;
+    border-radius: 7px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+h1{
+    color: white;
+}
+.request-btn{
+    color: #FFFFFF;
+    background-color: #D1D4F4;
+    width: 30%;
+    border-radius: 7px;
+    margin: 5px;
+    height: 40px;
+    padding: 5px 20px;
+    font-size: 14px;
+    cursor: pointer;
+}
+
+#content-btn{
+    border-radius: 7px;
+    padding: 10px;
+    background-color: #1F2937;
+}
+#invoice-btn{
+    width: 100%;
+    border-radius: 7px;
+    height: 25px;
+}
+#inbox{
+    padding: 10px;
+    height: 100px;
+}
+.playerOne {
+    float: right;
+    color: wheat;
+    height: 120px;
+  }
+.playerTwo {
+    float: left;
+    color: wheat;
+    height: auto;
+    height: 120px;
+  }
+#design{
+    padding: 5px;
+}
+.Amount{
+    float: right;
+    color: wheat;
+}
+.Notes{
+
+    float: left;
+    color: wheat;
+}
+.remove-btn{
+    background-color: #1F2937;
+    border: none;
+}
+#sty{
+    height: 60px;
+}
